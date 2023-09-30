@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rahul-S-712
+- 👋 Hi, I’m @Rahul-S-712 aka Rahul Sajeeth
 - 👀 I’m interested in ... Hardware description languages and scripting languages
 - 🌱 I’m currently learning ... Python and VLSI Design
 - 📫 How to reach me ... https://www.linkedin.com/in/rahulsajeeth/
